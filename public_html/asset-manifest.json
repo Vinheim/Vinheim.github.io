@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cf92126.css",
+    "main.js": "/static/js/main.e29d7bbf.js",
+    "static/media/Tank Game.png": "/static/media/Tank Game.d8ebced80e9d794e24bd.png",
+    "static/media/Plat2.png": "/static/media/Plat2.15163deddfeda58b270c.png",
+    "static/media/Tutor Dash.png": "/static/media/Tutor Dash.1ae12aff84527ce74143.png",
+    "static/media/Filament MemTracer.png": "/static/media/Filament MemTracer.9e89f0fb19b55b79434b.png",
+    "static/media/security-plus.pdf": "/static/media/security-plus.947321a977b268af76cf.pdf",
+    "static/media/Computational Biology Research Grant Paper.pdf": "/static/media/Computational Biology Research Grant Paper.7002717604a4b339dfbc.pdf",
+    "static/media/me.png": "/static/media/me.9d6e5f2c1fcc631c7162.png",
+    "static/media/stephen.jpeg": "/static/media/stephen.463f9bea15d0447bf495.jpeg",
+    "static/media/UCSF Chimera.png": "/static/media/UCSF Chimera.49999bca1caee63503d0.png",
+    "static/media/Recurrent-Neural-Networks.jpg": "/static/media/Recurrent-Neural-Networks.7a53fd995b79a287c357.jpg",
+    "static/media/Statue Grad.jpg": "/static/media/Statue Grad.56a5b8036e1d20b85c2d.jpg",
+    "static/media/Grad Frontal.jpg": "/static/media/Grad Frontal.7fa7a85f40bf9da45888.jpg",
+    "static/media/brunelle.jpeg": "/static/media/brunelle.513096f59fa07ead3db4.jpeg",
+    "static/media/resume.pdf": "/static/media/resume.641371a7e9ae321f2a47.pdf",
+    "static/media/metzger.jpeg": "/static/media/metzger.149d9637f6a176294c89.jpeg",
+    "index.html": "/index.html",
+    "main.2cf92126.css.map": "/static/css/main.2cf92126.css.map",
+    "main.e29d7bbf.js.map": "/static/js/main.e29d7bbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cf92126.css",
+    "static/js/main.e29d7bbf.js"
+  ]
+}
